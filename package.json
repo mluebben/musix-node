@@ -1,0 +1,22 @@
+{
+  "name": "musix",
+  "version": "1.0.0",
+  "description": "Musix streaming service",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthias Luebben <ml81@gmx.de>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.21.0",
+    "express": "^4.14.0",
+    "jayson": "^2.0.2",
+    "mysql": "^2.11.1"
+  }
+}

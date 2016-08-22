@@ -1,0 +1,10 @@
+{
+  "dbConfig": {
+    "connectionLimit" : 100,
+    "host"     : "localhost",
+    "user"     : "<your username>",
+    "password" : "<your password>",
+    "database" : "<your database>",
+    "debug"    :  false
+  }
+}
